@@ -229,14 +229,13 @@ iprogram('CSS, Stylus, Less','75');
 iprogram('HTML(5), HAML, Jade','75');
 iprogram('Javascript, Coffeescript','75');
 iprogram('Node','60');
-iprogram('iOS','30');
-iprogram('Android','50');
 iprogram('Relational Databases','75');
 iprogram('NoSQL Databases','60'); 
 iprogram('Git','85');
-iprogram('Heroku','80');
-iprogram('Unix OS, Mac OSX','80');
-
+iprogram('AI &amp Machine Learning','80');
+iprogram('Natural Language Processing','80');
+iprogram('Probability, Statistics','80');
+iprogram('Algorithmic Analysis','60');
 
 
 ?>
